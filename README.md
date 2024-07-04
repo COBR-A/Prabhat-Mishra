@@ -30,6 +30,12 @@ Let's connect and collaborate on exciting projects!
 ![Stars](https://img.shields.io/github/stars/PrabhatMishra/Prabhat-Mishra)
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
+<!-- Uncomment this line to show a custom banner -->
+<!-- ![Banner](https://i.imgur.com/r8VF5vH.png) -->
+
+<!-- Uncomment this line to show GitHub Streak -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
+
 
 ## Prabhat Mishra
 ### COBR-A
@@ -57,24 +63,7 @@ Let's connect and collaborate on exciting projects!
   <!-- Add more interests and technologies -->
 
 <!-- Animated lines CSS -->
-<style>
-  @keyframes fadeInOut {
-    0%, 100% {
-      opacity: 0; /* Fully transparent at start and end */
-    }
-    10%, 90% {
-      opacity: 1; /* Fully visible during middle of animation */
-    }
-  }
 
-  /* Apply animation to each line */
-  #line1 {
-    animation: fadeInOut 5s linear infinite;
-  }
-
-  #line2 {
-    animation: fadeInOut 5s linear infinite;
-  }
 
   #line3 {
     animation: fadeInOut 5s linear infinite;
