@@ -1,4 +1,3 @@
-# Prabhat-Mishra
 # Welcome to my profile!
 
 ![Status](https://img.shields.io/badge/status-updating-brightgreen)
@@ -7,14 +6,13 @@
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
 
-![Banner](https://link-to-your-image.png)
+![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
 
 ## Prabhat Mishra
 ### COBR-A
 
 - 🌟 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-000?&logo=Hack%20The%20Box)
