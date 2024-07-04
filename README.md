@@ -19,9 +19,9 @@ Let's connect and collaborate on exciting projects!
 
 <!-- Animated lines -->
 <p align="center">
-  <span id="line1" class="animated-line">Passionate about learning new technologies...</span><br>
-  <span id="line2" class="animated-line">Excited to explore AI, ML, and IoT...</span><br>
-  <span id="line3" class="animated-line">Always ready for new challenges...</span>
+  <span id="line1" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Passionate about learning new technologies...</span><br>
+  <span id="line2" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Excited to explore AI, ML, and IoT...</span><br>
+  <span id="line3" style="opacity: 0; animation: fadeInOut 5s linear infinite;">Always ready for new challenges...</span>
 </p>
 
 <!-- Badges -->
@@ -47,7 +47,6 @@ Let's connect and collaborate on exciting projects!
   ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
   ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
   
-  <!-- Add more badges and details here -->
 - 🌟 **hands_on:**  
   ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
   ![3D Printing](https://img.shields.io/badge/-3D%20Printing-000?&logo=Thingiverse)
@@ -56,13 +55,9 @@ Let's connect and collaborate on exciting projects!
   
 - 🌟 **Learning....**
   <!-- Add more interests and technologies -->
-  
-  <style>
-  .animated-line {
-    opacity: 0; /* Start with invisible lines */
-    animation: fadeInOut 5s linear infinite; /* Use fadeInOut animation with 5s duration */
-  }
 
+<!-- Animated lines CSS -->
+<style>
   @keyframes fadeInOut {
     0%, 100% {
       opacity: 0; /* Fully transparent at start and end */
@@ -71,9 +66,17 @@ Let's connect and collaborate on exciting projects!
       opacity: 1; /* Fully visible during middle of animation */
     }
   }
+
+  /* Apply animation to each line */
+  #line1 {
+    animation: fadeInOut 5s linear infinite;
+  }
+
+  #line2 {
+    animation: fadeInOut 5s linear infinite;
+  }
+
+  #line3 {
+    animation: fadeInOut 5s linear infinite;
+  }
 </style>
-<!-- Uncomment this line to show a custom banner -->
-<!-- ![Banner](https://i.imgur.com/r8VF5vH.png) -->
-
-<!-- Uncomment this line to show GitHub Streak -->
-
