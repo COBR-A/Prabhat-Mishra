@@ -6,9 +6,9 @@
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
 
-![Banner](https://i.imgur.com/r8VF5vH.png)
+<!-- ![Banner](https://i.imgur.com/r8VF5vH.png) -->
 
 
 
