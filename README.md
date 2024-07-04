@@ -6,7 +6,8 @@
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
+![Banner](https://i.imgur.com/qIMklLb.png)
+
 
 ## Prabhat Mishra
 ### COBR-A
