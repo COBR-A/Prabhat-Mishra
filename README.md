@@ -6,11 +6,11 @@
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
 
+<!-- Comment: Uncomment this line to show GitHub Streak -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=PrabhatMishra)](https://git.io/streak-stats) -->
 
+<!-- Comment: Uncomment this line to show a custom banner -->
 <!-- ![Banner](https://i.imgur.com/r8VF5vH.png) -->
-
-
 
 ## Prabhat Mishra
 ### COBR-A
@@ -25,7 +25,15 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?&logo=OpenAI)
 ![ML](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
+<!-- Comment: Add more badges and details here -->
 
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![3D Printing](https://img.shields.io/badge/-3D%20Printing-000?&logo=Thingiverse)
+![DIY Robotics](https://img.shields.io/badge/-DIY%20Robotics-000?&logo=Robot)
+![Drone](https://img.shields.io/badge/-Drone-000?&logo=Drone)
+**Learning....**
+<!-- Comment: Add more interests and technologies -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhatMishra&show_icons=true&theme=dark)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhatMishra&show_icons=true&theme=dark) --> 
+
 
