@@ -6,8 +6,8 @@
 ![Forks](https://img.shields.io/github/forks/PrabhatMishra/Prabhat-Mishra)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PrabhatMishra.Prabhat-Mishra)
 
+![Banner](https://i.imgur.com/r8VF5vH.png)
 
-![Banner](https://i.imgur.com/U3CKH5i.png)
 
 
 ## Prabhat Mishra
