@@ -64,8 +64,3 @@ Let's connect and collaborate on exciting projects!
 
 <!-- Animated lines CSS -->
 
-
-  #line3 {
-    animation: fadeInOut 5s linear infinite;
-  }
-</style>
